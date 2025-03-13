@@ -22,3 +22,14 @@ The full dataset is available in `Climate_Finance_Real_Estate_Data.csv`.
 
 ## Contact
 For any questions, feel free to contact me.
+## 📊 Data Visualization
+Below are key findings from the dataset:
+
+### **1️⃣ Impact of Green Bond Financing on Miami Real Estate Prices**
+![Miami Real Estate Chart](https://github.com/xzwziv1026/Climate-Finance-Real-Estate-Risk/blob/main/Miami_Real_Estate_Chart.png)
+
+### **2️⃣ Climate Risk Score vs. Real Estate Prices in Major Cities**
+![Climate Risk vs. Price](https://github.com/xzwziv1026/Climate-Finance-Real-Estate-Risk/blob/main/Climate_Risk_vs_Price.png)
+
+### **3️⃣ Impact of Green Bonds on Real Estate Prices**
+![Green Bonds vs. Traditional Financing](https://github.com/xzwziv1026/Climate-Finance-Real-Estate-Risk/blob/main/Green_Bonds_vs_Traditional.png)
